@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Same cat as the navbar wordmark, sized to fill the tab icon. -->
+  <path d="M3.6 18.4 3 3.2l10 6.4Z" fill="#c4614f"/>
+  <path d="M28.4 18.4 29 3.2l-10 6.4Z" fill="#c4614f"/>
+  <path d="M5.4 8.4 6 15.6l4.6-3.6Z" fill="#f2a79c"/>
+  <path d="M26.6 8.4 26 15.6l-4.6-3.6Z" fill="#f2a79c"/>
+  <path d="M16 8.6c8.2 0 13.2 5 13.2 11.4S23.8 31 16 31 2.8 26.4 2.8 20 7.8 8.6 16 8.6Z" fill="#c4614f"/>
+  <ellipse cx="10.8" cy="19.6" rx="1.8" ry="2.3" fill="#fff8ed"/>
+  <ellipse cx="21.2" cy="19.6" rx="1.8" ry="2.3" fill="#fff8ed"/>
+  <path d="M13.6 24.3q1.2 1.3 2.4 0 1.2 1.3 2.4 0" stroke="#fff8ed" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+</svg>
